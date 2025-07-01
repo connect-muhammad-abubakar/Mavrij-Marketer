@@ -835,13 +835,22 @@ button {
 .contact_taital{
     width: 100%;
     display: block;
-    font-size: 40px;
+    font-size: 30px;
     color: #ffffff;
     font-weight: bold;
     text-transform: uppercase;
     text-align: center;
 }
-
+.contact_taital-1{
+    width: 100%;
+    display: block;
+    font-size: 20px;
+    color: #02F4FF;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
 .contact_section_2 {
    width: 90%;
   max-width: 600px;
